@@ -5,7 +5,7 @@
 
 
 
-<ul style="list-style-position:inside" align="center">
+<ul list-style-position="inside" align="center">
     <li>🌱 I’m currently learning <strong>React.js, JavaScript etc.</strong> </li>
     <li>📫 How to reach me:<a href="mailto:ugurulkerr@outlook.com"><strong> ugurulkerr@outlook.com</strong></a></li>
 </ul>
