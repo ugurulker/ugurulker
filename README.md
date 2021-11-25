@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uğur</h1>
 <h3 align="center">A Frontend Developer from Turkey</h3> <br>
 
-![gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bilisimevreni.tk%2F&psig=AOvVaw3iAok09Moah2sSkrhT1wct&ust=1637957755771000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCID10ciqtPQCFQAAAAAdAAAAABAY.gif)
+<img src="https://cdn.glitch.com/df2f002b-7e79-4a76-95fe-fc8652bd0d78%2Fdeveloper.gif?v=1622796572092" alt="drawing" width="300" style="margin-left:196px"/>
 
 - 🌱 I’m currently learning **React.js, JavaScript etc.** 
 
