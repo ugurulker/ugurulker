@@ -5,10 +5,10 @@
 
 
 
-<ul list-style-position="inside" align="center">
-    <li>🌱 I’m currently learning <strong>React.js, JavaScript etc.</strong> </li>
-    <li>📫 How to reach me:<a href="mailto:ugurulkerr@outlook.com"><strong> ugurulkerr@outlook.com</strong></a></li>
-</ul>
+
+<p align="center">🌱 I’m currently learning <strong>React.js, JavaScript etc.</strong> </p>
+<p align="center">📫 How to reach me:<a href="mailto:ugurulkerr@outlook.com"><strong> ugurulkerr@outlook.com</strong></a></p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
