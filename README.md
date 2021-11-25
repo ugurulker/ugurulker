@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Uğur</h1>
 <h3 align="center">A Frontend Developer from Turkey</h3> <br>
 
-<img src="https://cdn.glitch.com/df2f002b-7e79-4a76-95fe-fc8652bd0d78%2Fdeveloper.gif?v=1622796572092" alt="drawing" width="300" style="margin-left:600px"/>
+<div align="center"><img src="https://cdn.glitch.com/df2f002b-7e79-4a76-95fe-fc8652bd0d78%2Fdeveloper.gif?v=1622796572092" alt="drawing" width="300"/></div>
 
 
 
-<ul style="list-style-position:inside" align="left">
-    <li style="margin-left:540px">🌱 I’m currently learning <strong>React.js, JavaScript etc.</strong> </li>
-    <li style="margin-left:540px">📫 How to reach me:<a href="mailto:ugurulkerr@outlook.com"><strong> ugurulkerr@outlook.com</strong></a></li>
+<ul style="list-style-position:inside" align="center">
+    <li>🌱 I’m currently learning <strong>React.js, JavaScript etc.</strong> </li>
+    <li>📫 How to reach me:<a href="mailto:ugurulkerr@outlook.com"><strong> ugurulkerr@outlook.com</strong></a></li>
 </ul>
 
 <h3 align="center">Connect with me:</h3>
