@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Uğur</h1>
 <h3 align="center">A Frontend Developer from Turkey</h3> <br>
 
+![gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bilisimevreni.tk%2F&psig=AOvVaw3iAok09Moah2sSkrhT1wct&ust=1637957755771000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCID10ciqtPQCFQAAAAAdAAAAABAY.gif)
+
 - 🌱 I’m currently learning **React.js, JavaScript etc.** 
 
 - 📫 How to reach me: **ugurulkerr@outlook.com** 
